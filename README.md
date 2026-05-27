@@ -151,12 +151,3 @@ O projeto inclui dependências de teste no `pom.xml`. Para rodar os testes:
 ## Status do repositório
 
 Este repositório é um repositório de estudo. A ideia foi criar uma API básica funcionando e, a partir daqui, evoluir gradualmente a aplicação adicionando melhorias de arquitetura, testes e documentação. Sinta-se à vontade para abrir sugestões, issues ou pull requests com propostas de melhorias — este é um espaço de aprendizado.
-
-## Licença
-
-Sem licença definida (repositório pessoal de estudo). Se desejar, adicione um `LICENSE`.
-
-## Contato
-
-Se quiser trocar ideias sobre melhorias, inclua suas informações de contato aqui.
-
